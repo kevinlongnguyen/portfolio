@@ -2770,7 +2770,19 @@ input, select, textarea {
 			}
 
 			.tiles article.style17 > .image:before {
-				background-color: #a6a2a1;
+				background-color: #fe5e64;
+			}
+
+			.tiles article.style18 > .image:before {
+				background-color: #1a314f;
+			}
+
+			.tiles article.style19 > .image:before {
+				background-color: #b7d9d5;
+			}
+
+			.tiles article.style20 > .image:before {
+				background-color: #e2cba8;
 			}
 			
 			body:not(.is-touch) .tiles article:hover > .image {
